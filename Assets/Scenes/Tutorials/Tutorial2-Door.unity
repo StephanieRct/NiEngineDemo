@@ -203,14 +203,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Uid:
-    i0: 2053258351
-    i1: 1498796271
+    i0: 529304298
+    i1: 2112080201
   Groups:
   - GroupName:
       Name: 
     HasActiveState: 1
     States:
-    - IsExpended: 1
+    - IsExpended: 0
       StateName:
         Name: Open
       IsActiveState: 0
@@ -227,7 +227,7 @@ MonoBehaviour:
           From: {fileID: 0}
           TriggerObject: {fileID: 0}
           TriggerPosition: {x: 0, y: 0, z: 0}
-    - IsExpended: 1
+    - IsExpended: 0
       StateName:
         Name: Close
       IsActiveState: 1
